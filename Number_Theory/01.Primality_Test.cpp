@@ -12,6 +12,6 @@ bool isPrime(int n){
 }
 
 int main(){
-	std::cout << isPrime(23);
+	std::cout << isPrime(23) << std::endl;
 	return 0;
 }
